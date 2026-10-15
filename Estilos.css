@@ -1,0 +1,39 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("https://www.new7wonders.com/app/uploads/sites/4/2016/09/044-Seongsan-Ilchulbong-and-Hallasan-1920x1227.jpg");
+    background-size: cover;
+    margin: 0;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+                    
+.caja {
+    width: min(80%, 900px);
+    margin-top: 60px;
+}
+
+.titulo {
+    background: rgba(255, 255, 255, 0.7);
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+    color: #1f2c3a;
+}
+
+.imagen1 {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 25px;
+    border-radius: 15px;
+    border: 3px solid #ffffff;
+}
+
